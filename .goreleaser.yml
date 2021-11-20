@@ -1,7 +1,7 @@
 env:
-  - PROJECT_DESCRIPTION="Minimal mail implementation in go"
-  - PROJECT_HOMEPAGE="https://stenic.io"
-  - LICENSE="MIT"
+  - PROJECT_DESCRIPTION=Minimal mail implementation in go
+  - PROJECT_HOMEPAGE=https://stenic.io
+  - LICENSE=MIT
 
 before:
   hooks:
