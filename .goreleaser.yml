@@ -1,5 +1,5 @@
 env:
-  - PROJECT_DESCRIPTION=""
+  - PROJECT_DESCRIPTION="Minimal mail implementation in go"
   - PROJECT_HOMEPAGE="https://stenic.io"
   - LICENSE="MIT"
 
